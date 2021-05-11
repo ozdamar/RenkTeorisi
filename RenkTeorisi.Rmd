@@ -70,8 +70,8 @@ class: center
 class: center, middle
 
 # Renk
-  <img src="DavidNovick.png" height="70%" width="70%" />
 
+![](images/cDavidNovick.png.png)
 
 ---
 
