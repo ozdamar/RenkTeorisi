@@ -815,7 +815,7 @@ knitr::include_graphics("figure-html/plot12-1.png")
 
 ---
 
-# RColorBrewe palet paketi
+# RColorBrewer palet paketi
 ```{r plot13,eval=FALSE}
 library(RColorBrewer)
 display.brewer.all()
