@@ -71,7 +71,7 @@ class: center, middle
 
 # Renk
 
-![](images/cDavidNovick.png.png)
+![](images/DavidNovick.png.png)
 
 ---
 
